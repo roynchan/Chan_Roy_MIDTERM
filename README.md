@@ -32,7 +32,7 @@
               Also Cats are more like a pets but not like a messy child as dog,cats is more chill and cool so they wont create a mess all over the place like dogs.
               So Cats are better,it can keep owner away from the stress and worries.
               </P>
-              <img class=fixed-image src="cats.jpeg">
+              <img class=fixed-image src="images/cats.jpeg">
               </section>
             
             
